@@ -75,7 +75,7 @@
 
 1. **克隆或下载项目**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MySoulcutting/TodoList.git
    cd TodoList
    ```
 
@@ -249,7 +249,7 @@ TodoList/
 ### 开发环境设置
 ```bash
 # 克隆项目
-git clone <repository-url>
+git clone https://github.com/MySoulcutting/TodoList.git
 
 # 安装依赖
 pip install flet
@@ -266,17 +266,8 @@ python main.py
 
 ---
 
-## 📞 联系方式
-
-如有问题或建议，欢迎通过以下方式联系：
-
-- 📧 Email: your-email@example.com
-- 💬 Issues: [GitHub Issues](https://github.com/your-username/TodoList/issues)
-
----
-
 ## 🙏 致谢
-
+- [Claude Code](https://claude.com/product/claude-code) - 全部代码开发
 - [Flet](https://flet.dev/) - 优秀的跨平台 UI 框架
 - [Material Design 3](https://m3.material.io/) - 现代化的设计系统
 - [Python](https://www.python.org/) - 强大的编程语言
