@@ -1,0 +1,74 @@
+{
+  "version": "1.0",
+  "saved_at": "2026-01-07T01:25:58.034480",
+  "sort_mode": "time_new",
+  "categories": [
+    {
+      "name": "全部",
+      "icon": "📁",
+      "color": "#9E9E9E"
+    },
+    {
+      "name": "默认",
+      "icon": "📥",
+      "color": "#5C6BC0"
+    },
+    {
+      "name": "工作",
+      "icon": "💼",
+      "color": "#F57C00"
+    },
+    {
+      "name": "生活",
+      "icon": "🏠",
+      "color": "#43A047"
+    },
+    {
+      "name": "学习",
+      "icon": "📚",
+      "color": "#E53935"
+    }
+  ],
+  "tasks": [
+    {
+      "text": "啊啊",
+      "completed": false,
+      "priority": "无",
+      "category": "默认",
+      "created_time": "2026-01-07T00:58:52.781368",
+      "completed_time": null,
+      "time_format": "MM-DD HH:MM",
+      "subtasks": []
+    },
+    {
+      "text": "AAAA",
+      "completed": false,
+      "priority": "低",
+      "category": "默认",
+      "created_time": "2026-01-07T00:58:53.866508",
+      "completed_time": null,
+      "time_format": "MM-DD HH:MM",
+      "subtasks": []
+    },
+    {
+      "text": "AAAA",
+      "completed": false,
+      "priority": "中",
+      "category": "默认",
+      "created_time": "2026-01-07T00:58:54.659040",
+      "completed_time": null,
+      "time_format": "MM-DD HH:MM",
+      "subtasks": []
+    },
+    {
+      "text": "AAAA",
+      "completed": false,
+      "priority": "无",
+      "category": "生活",
+      "created_time": "2026-01-07T00:58:56.274386",
+      "completed_time": null,
+      "time_format": "MM-DD HH:MM",
+      "subtasks": []
+    }
+  ]
+}
